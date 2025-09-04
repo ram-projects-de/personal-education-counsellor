@@ -55,31 +55,6 @@ The **Personal Education Counsellor** is an AI-driven chatbot created with inter
 
    - Interact with the chatbot in your **browser** or via **Azure Web App Bot service**
 
-## 📷 Project Walkthrough (Slides)
-
-Below are step-by-step screenshots from the project workflow:
-
-![Step 6](screenshots/slide6_1.jpeg)  
-![Step 7](screenshots/slide7_1.jpeg)  
-![Step 8](screenshots/slide8_1.jpeg)  
-![Step 9](screenshots/slide9_1.jpeg)  
-![Step 10](screenshots/slide10_1.jpeg)  
-![Step 11](screenshots/slide11_1.jpeg)  
-![Step 12](screenshots/slide12_1.jpeg)  
-![Step 13](screenshots/slide13_1.jpeg)  
-![Step 14](screenshots/slide14_1.jpeg)  
-![Step 15](screenshots/slide15_1.jpeg)  
-![Step 16](screenshots/slide16_1.jpeg)  
-![Step 17](screenshots/slide17_1.jpeg)  
-![Step 18](screenshots/slide18_1.jpeg)  
-![Step 19](screenshots/slide19_1.jpeg)  
-![Step 20](screenshots/slide20_1.jpeg)  
-![Step 21](screenshots/slide21_1.jpeg)  
-![Step 22](screenshots/slide22_1.jpeg)  
-![Step 23](screenshots/slide23_1.jpeg)  
-
-*(Place your project screenshots inside a folder named `screenshots/` in your repo for these to render correctly.)*
-
 ---
 
 ## 🔮 Future Improvements
